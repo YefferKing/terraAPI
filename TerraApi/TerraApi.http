@@ -1,0 +1,6 @@
+@TerraApi_HostAddress = http://localhost:5003
+
+GET {{TerraApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
